@@ -4,7 +4,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     background-color: #f8f9fa;
-    color: #343a40;
+    color: #007a21;
     font-size: 16px;
 }
 
@@ -21,7 +21,7 @@ body {
     padding-top: 25px;
     padding-bottom: 15px;
     min-height: 70px;
-    border-bottom: #007bff 4px solid;
+    border-bottom: #00c224 4px solid;
 }
 
 #pageHeader h1 {
